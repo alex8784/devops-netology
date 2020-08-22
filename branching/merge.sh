@@ -2,7 +2,7 @@
 # display command line options
 
 count=1
-For param in "$*"; do
+for param in "$*"; do
     echo "\$* Parameter #$count = $param"
-    count=$(( $count +1 ))
+    count=$(( $count + 1 ))
 done

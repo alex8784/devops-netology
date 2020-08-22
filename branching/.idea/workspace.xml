@@ -19,8 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47cc81ed-947b-4b2f-8302-a4a83848b096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2949e84e-9c27-4007-b094-eeede4cbcc97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/devops-netology.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/branching.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge.sh" beforeDir="false" afterPath="$PROJECT_DIR$/merge.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gSd2YGlrGu2DlpL0H1ntUobvZC" />
+  <component name="ProjectId" id="1gT1YU10hRK8Bw8LQ5TkoVy515r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,68 +45,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Shell Script" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager" selected="Shell Script.merge.sh">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="branching" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="merge.sh" type="ShConfigurationType">
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$APPLICATION_CONFIG_DIR$/scratches/merge.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="false" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scratch.sh" type="ShConfigurationType">
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$APPLICATION_CONFIG_DIR$/scratches/merge.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="false" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Shell Script.scratch.sh" />
-      <item itemvalue="Shell Script.merge.sh" />
-    </list>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/merge.sh" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47cc81ed-947b-4b2f-8302-a4a83848b096" name="Default Changelist" comment="" />
-      <created>1598111720171</created>
+      <changelist id="2949e84e-9c27-4007-b094-eeede4cbcc97" name="Default Changelist" comment="" />
+      <created>1598123816709</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598111720171</updated>
+      <updated>1598123816709</updated>
     </task>
     <servers />
   </component>
@@ -114,25 +69,10 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="302" y="163" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598113443857">
+    <state x="897" y="303" key="FileChooserDialogImpl" timestamp="1598124130638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="302" y="163" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1598113443857" />
-    <state x="628" y="263" key="FileChooserDialogImpl" timestamp="1598115671072">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="628" y="263" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1598115671072" />
-    <state x="349" y="153" key="SettingsEditor" timestamp="1598113171365">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="349" y="153" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1598113171365" />
-    <state x="678" y="378" key="VCS.EditChangelistDialog" timestamp="1598113268223">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="378" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1598113268223" />
+    <state x="897" y="303" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1598124130638" />
   </component>
 </project>
